@@ -3,7 +3,7 @@
 
 I'm Amber, an NYC-based creative with a background in consulting & product analytics! I have 3+ years of experience translating complex data into strategic insights and compelling narratives for B2B clients.
 
-Outside of work, I love making art, watching films, and live music (metalcore is my favorite genre). 
+Outside of work, I love all things art, films, and live music (metalcore is my favorite genre). 
 
 - 🔭 I’m currently working on a memory capsule app for music sharing <3 
 - 🌱 Learning Python and Javascript
