@@ -5,6 +5,6 @@ I'm Amber, an NYC-based creative with a background in consulting & product analy
 
 Outside of work, I love all things art, films, and live music (metalcore is my favorite genre). 
 
-✦ I’m currently working on a memory capsule app for music sharing <3  
-✦ Learning Python and Javascript  
-✦ Contact me: amberhsuanho@gmail.com  
+-  💻 I’m currently working on a memory capsule app for music sharing <3
+-  💭 Learning Python and Javascript  
+-  💌 Contact me: amberhsuanho@gmail.com  
