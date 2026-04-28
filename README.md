@@ -3,7 +3,7 @@
 
 I'm Amber, an NYC-based creative with 3+ years in healthcare data and product analytics at a B2B SaaS platform, translating complex datasets into strategic insights and compelling narratives for enterprise clients.
 
-Outside of work, I love all things art, cinema, and live music (metalcore is my favorite genre). 
+Outside of work, I love all things art, cinema, and live music! 
 
 -  💻 I’m currently working on a memory capsule app for music sharing <3
 -  💭 Learning Python and Javascript  
